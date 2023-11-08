@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+    <form class="backg">
+    <header>
+        <img class="step" src="./img/1.svg" alt="">
+        <p class="p_step">Shipping</p>
+        <div class="green_line"></div>
+        <img class="step" src="./img/2.svg" alt="">
+        <p class="p_step">Payment</p>
+        <div class="grey_line"></div>
+        <img class="step color_svg" src="./img/3.svg" alt="">
+        <p class="p_step">Confirmation</p>
+    </header>
+    <h1 >Payment details</h1>
+    <hr class="line">
+    <fieldset class="div_mar_left">
+        <h2>Credit card information</h2>
+        <p>Name on card</p>
+        <input type="text">
+            <div class="numaccept">
+                <div>
+                <p>Credit card number</p>
+                <input type="text">
+            </div>
+            <div class="rightaccept">
+                <p>Accepted cards</p>
+                <div>
+                <img class="cards" src="./img/visa.png" alt="">
+                <img class="cards marg_lft_5px" src="./img/mastercard.png" alt="">
+                <img class="cards marg_lft_5px" src="./img/AmericanExpress.svg " alt="">
+                <img class="cards marg_lft_5px" src="./img/discover.png" alt="">
+                </div>
+            </div>
+            </div>
+            <div class="securityflex">
+                <div>
+            <p>Security code <img class="thap" src="./img/4.svg"></p>
+
+            <input type="text" class="min_input">
+        </div>
+                <div class="securityflexright">
+            <p>Expiration date</p>
+            <select name="Month" placeholder="text">
+                <option value disabled selected>Month</option>
+                <option value="month1">Січень</option>
+                <option value="month2">Лютий</option>
+                <option value="month3">Березень</option>
+                <option value="month4">Квітень</option>
+                <option value="month5">Травень</option>
+                <option value="month6">Червень</option>
+                <option value="month7">Липень</option>
+                <option value="month8">Серпень</option>
+                <option value="month9">Вересень</option>
+                <option value="month10">Жовтень</option>
+                <option value="month11">Листопад</option>
+                <option value="month12">Грудень</option>
+              </select>
+              <select name="Year">
+                <option value disabled selected>Year</option>
+                <option value="year1">2018</option>
+                <option value="year2">2019</option>
+                <option value="year3">2020</option>
+                <option value="year4">2021</option>
+                <option value="year5">2022</option>
+                <option value="year6">2023</option>
+                <option value="year7">2024</option>
+                <option value="year8">2025</option>
+                <option value="year9">2026</option>
+                <option value="year10">2027</option>
+              </select>
+                </div>
+        </div>
+    </fieldset>
+    <fieldset class="div_mar_left marg_top_60">
+        <h2>Billing information</h2>
+        <p>First name</p>
+        <input type="text">
+        <p>Second name</p>
+        <input type="text">
+        <p>Billing addres</p>
+        <input type="text">
+        <p>City</p>
+        <input type="text">
+        <div class="zipcouflex">
+        <div class="col">
+        <p>Zip</p>
+        <input type="text" class="min_input">
+     </div>
+        <div class="countryright">
+        <p>Country</p>
+        <input class="col2" type="text">
+        </div>
+    </div>
+        <button> Submit payment</button>
+    </fieldset>
+</form>
+</body>
+</html>

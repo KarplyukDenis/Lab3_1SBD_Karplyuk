@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="35mm" height="25mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 3500 2500"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <font id="FontID0" horiz-adv-x="666" font-variant="normal" style="fill-rule:nonzero" font-style="normal" font-weight="400">
+	<font-face 
+		font-family="Arial">
+		<font-face-src>
+			<font-face-name name="Arial"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="2" horiz-adv-x="556" d="M502.999 84.0027l0 -84.0027 -474.002 0c-0.665741,21.1655 2.83882,41.5021 10.3378,61.1666 12.1655,32.1691 31.6667,63.9991 58.4973,95.1696 26.8369,31.1642 65.1673,67.1645 115.004,107.995 77.4961,63.8358 130.165,114.338 157.661,151.67 27.6659,37.3318 41.5021,72.6663 41.5021,105.997 0,34.8384 -12.4984,64.1687 -37.5013,88.1668 -24.9967,23.8348 -57.662,35.837 -97.8326,35.837 -42.5007,0 -76.4974,-12.6679 -101.997,-38.0038 -25.5054,-25.1663 -38.3367,-60.1617 -38.6695,-104.999l-90.0007 9.00007c6.16753,67.3341 29.4999,118.665 69.8338,154 40.5035,35.3345 94.6672,53.0018 162.837,53.0018 68.6656,0 123.162,-18.9988 163.163,-57.1658 40.1706,-38.1671 60.1679,-85.5038 60.1679,-141.834 0,-28.6646 -5.83466,-56.833 -17.6673,-84.4989 -11.6693,-27.8355 -31.1642,-57.0025 -58.334,-87.6706 -27.3331,-30.4985 -72.4967,-72.6663 -135.497,-125.995 -52.8322,-44.3346 -86.8353,-74.3369 -101.833,-90.1703 -15.0043,-15.8333 -27.3331,-31.6667 -37.1685,-47.6633l351.499 0z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Arial";font-variant:normal;font-style:normal;font-weight:normal;src:url("#FontID0") format(svg)}
+    .fil1 {fill:#FEFEFE}
+    .fil0 {fill:#B0CB1F}
+    .fnt0 {font-weight:normal;font-size:1592.21px;font-family:'Arial'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <circle class="fil0" cx="1797.58" cy="1232.15" r="805.06"/>
+  <text x="1374.59" y="1804.55"  class="fil1 fnt0">2</text>
+ </g>
+</svg>
